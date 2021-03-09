@@ -11,7 +11,8 @@ namespace TechnicalHomework4
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //Label1.Text = Session["PatientName"].ToString();
+            //string test = Session["PatientName"].ToString();
         }
     }
 }

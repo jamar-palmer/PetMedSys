@@ -52,7 +52,6 @@ C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\bin\roslyn\VBC
 C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\obj\Debug\TechnicalHomework4.csprojAssemblyReference.cache
 C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\obj\Debug\TechnicalHomework4.csproj.CoreCompileInputs.cache
 C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\obj\Debug\TechnicalHomework4.csproj.CopyComplete
 C:\Users\Jamar\source\repos\TechnicalHomework4\TechnicalHomework4\obj\Debug\TechnicalHomework4.dll
